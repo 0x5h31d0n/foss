@@ -27,7 +27,7 @@
     50% {
         border-color: rgb(19, 244, 75);
     }
-body {
+.body {
     margin: 30;
     margin-left: 250;
     margin-right: 250;
