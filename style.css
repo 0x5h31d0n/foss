@@ -1,0 +1,10 @@
+body {
+    margin: 30;
+    margin-left: 250;
+    margin-right: 250;
+    background-color: black;
+    color: rgb(33, 204, 31);
+    font-family: monospace;
+    text-align: justify;
+    font-variant: unset;
+}
