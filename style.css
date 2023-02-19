@@ -45,3 +45,10 @@ body {
     text-align: justify;
     font-variant: unset;
 }
+
+.par {
+    margin: 30;
+    margin-left: 250;
+    margin-right: 250;
+    text-align: justify;
+}
