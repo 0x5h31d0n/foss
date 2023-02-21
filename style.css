@@ -32,8 +32,13 @@ body {
     font-variant: unset;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.gif-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* or any other desired height */
 }
+
+.gif-container img {
+  max-width: 100%;
+  max
