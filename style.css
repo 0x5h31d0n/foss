@@ -41,4 +41,5 @@ body {
 
 .gif-container img {
   max-width: 100%;
-  max
+  max-height: 100%;
+}
